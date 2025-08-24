@@ -69,6 +69,7 @@ Welcome to **Store Ratings**! A full-stack web application that allows users to 
 ## Demo Credentials
 - **Admin (seed):** `admin@sys.com` / `Admin@123`  
 - **Owner example (seed):** `owner@shop.com` / `Owner@123`  
+- **User example:** `email: user@test.com` / `User@5678`  
 
 ---
 
